@@ -1,3 +1,5 @@
 This is test fir GIT from MSM laptop
 
 
+adding new line
+update
